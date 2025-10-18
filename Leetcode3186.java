@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Leetcodeit3186 {
+class Leetcode3186 {
     public long maximumTotalDamage(int[] power) {
         // Step 1: Count frequencies using HashMap
         Map<Integer, Integer> freq = new HashMap<>();
